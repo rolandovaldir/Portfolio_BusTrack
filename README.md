@@ -5,5 +5,5 @@ Mapa que es obtenido desde google maps, donde se muestra la posición de los bus
 ### How to run
 Simplemente descargue el repositorio y lleve el archivo index.html al buscador para ejecutar.
 #### RoadMap de mejoras
-1. Implementar en mi país Bolivia
+1. Implementar el seguimiento en el mapa mi país Bolivia, solamente de buses Puma Katari.
 #### <a href="https://github.com/rolandovaldir/Portfolio_BusTrack/blob/main/LICENSE"> Licencia </a>
